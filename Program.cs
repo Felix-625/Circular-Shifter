@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Stock_Price_Tracker
+namespace Circular_Shifter
 {
     internal class Program
     {
@@ -45,3 +45,4 @@ namespace Stock_Price_Tracker
         }
     }
 }
+
